@@ -1,0 +1,38 @@
+[
+    {    
+        "name":"vitamin c candy",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/9TXxg7w/vitamin-c.jpg"
+    },
+    {
+        "name":"Hand sanitizer bottle",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/1MP57Ms/hand-Sanitaizer.jpg"
+    },
+    {
+        "name":"Detail 200 ml bottle",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/kgq8dz9/dettol.jpg"
+    },
+    {
+        "name":"vitamin c candy",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/9TXxg7w/vitamin-c.jpg"
+    },
+    {
+        "name":"Hand sanitizer bottle",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/1MP57Ms/hand-Sanitaizer.jpg"
+    },
+    {
+        "name":"Detail 200 ml bottle",
+        "offer":"20%off",
+        "price":"700",
+        "img":"https://i.ibb.co/kgq8dz9/dettol.jpg"
+    }
+]

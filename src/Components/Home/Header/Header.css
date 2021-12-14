@@ -13,3 +13,31 @@
 .button_control{
   margin-left:200px;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .bg_handle{
+    background-image:url(../../../images/sunProtect2.jpg);
+    background-size: 100% 100%;
+   
+    width: 100%;
+    /* height: 579px; */
+    height:400px;
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+@media only screen and (max-width: 600px) {
+  .write_responsive{
+    margin-right:400px;
+  }
+}
